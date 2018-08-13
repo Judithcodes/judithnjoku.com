@@ -1,0 +1,65 @@
+
+
+
+.navbar{
+	background: white;
+
+}
+
+.my-2{
+	color: chocolate;
+	border-color: chocolate;
+}
+
+.my-sm-0:hover{
+	background: red;
+	border-color: red;
+}
+
+.about span{
+    display: block;
+    color: #888;
+    position: absolute;
+    left: 120px;
+}
+.bend{
+     border-radius: 40px;
+    border-style: groove;
+}
+
+.about .desc{
+    padding: 2em;
+    border-left: 4px solid #10828c;
+   
+}
+
+.about .desc h3{
+    color:#10828c;
+}
+
+.about .desc p{
+    line-height: 2;
+    color: #888;
+}
+.blog{
+    margin: 4em 0;
+    position: relative;
+    
+}
+
+.blog h1{
+    color: chocolate;
+    margin: 2em;
+}
+.blog .card{
+    box-shadow: 0 0 20px #ccc;
+}
+
+.blog .card img{
+    width: 100%;
+    height: 12em;
+}
+
+.blog .card-title{
+    
+/
